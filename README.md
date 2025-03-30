@@ -1,14 +1,14 @@
 Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm Shireesha Bysegowni, Aspiring Front End Web Developer
 
 ### Let's Connect on social media
-
+<span>
 <a href="[https://www.linkedin.com/in/shireesha-bysegowni-69b8b9251/](https://www.linkedin.com/in/shireesha-bysegowni-69b8b9251/)" target="_blank">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
 </a>
 <a href="[https://github.com/shireeshabysegowni](https://github.com/shireeshabysegowni)" target="_blank">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
 </a>
-
+</span>
 
 ### About Me
 Currently, I'm  Working as <b> Software Engineer </b> at [Edzola](https://www.edzola.com/home).
